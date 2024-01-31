@@ -1,0 +1,38 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container
+{
+    margin: auto;
+    width: 500px;
+}
+
+.comment
+{
+    padding: 25px;
+    width: 100%;
+    border: 1px solid #1C1B22;
+    border-radius: 25px;
+    margin: 10px 0;
+}
+
+h1
+{
+    text-align: center;
+}
+
+form
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+textarea
+{
+    resize: none;
+    height: 200px;
+}
