@@ -1,3 +1,7 @@
+create database if not exists task;
+
+use task;
+
 create table if not exists
 comments (id int primary key auto_increment, comment varchar(255));
 
