@@ -1,3 +1,6 @@
+<?php
+include 'prepare.php';
+?>
 <!DOCTYPE html>
 <html>
 
@@ -16,7 +19,7 @@
                 <input type=submit value="Опубликовать">
             </form>
             <?php
-            include 'db.php'
+            include 'comments.php'
             ?>
         </div>
     </body>
