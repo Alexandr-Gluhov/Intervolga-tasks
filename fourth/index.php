@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <title>task 4</title>
-    <link rel="stylesheet" href="index.css">
 
     <head>
 
