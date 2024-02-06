@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <title>task 1</title>
 
-    <head>
+</head>
 
-    <body>
-        <?php
-        include 'solution.php';
-        ?>
-    </body>
-    <html>
+<body>
+    <?php
+    include 'solution.php';
+    ?>
+</body>
+</html>
