@@ -4,12 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <title>task 4</title>
+</head>
 
-    <head>
-
-    <body>
-        <?php
-        include 'code.php';
-        ?>
-    </body>
-    <html>
+<body>
+    <?php
+    include 'code.php';
+    ?>
+</body>
+</html>
