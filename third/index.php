@@ -9,18 +9,19 @@ include 'prepare.php';
     <title>task 3</title>
     <link rel="stylesheet" href="index.css">
 
-    <head>
+</head>
 
-    <body>
-        <div class="container">
-            <h1>Комментарии</h1>
-            <form method="post">
-                <textarea name="comment" placeholder="Оставьте свой комментарий"></textarea>
-                <input type=submit value="Опубликовать">
-            </form>
-            <?php
-            include 'comments.php'
-            ?>
-        </div>
-    </body>
-    <html>
+<body>
+    <div class="container">
+        <h1>Комментарии</h1>
+        <form method="post">
+            <textarea name="comment" placeholder="Оставьте свой комментарий"></textarea>
+            <input type=submit value="Опубликовать">
+        </form>
+        <?php
+        include 'comments.php'
+        ?>
+    </div>
+</body>
+
+</html>
